@@ -1,17 +1,15 @@
 <div align="center">
 
-# Hi, I'm Santosh Kumar Kuppannagari 👋
+# 👋 Hi, I'm Santosh Kumar
 
-### Building AI Agents, Intelligent Workflows & Tool-Using Systems
-
-**Designing and building AI systems that reason through tasks, work with tools and data, and execute structured multi-step workflows.**
+### Building AI Agents • Intelligent Workflows • AI-Powered Systems
 
 <p>
-  <a href="https://www.linkedin.com/in/santosh-kumar-kuppannagari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/Santoshmk126">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Santoshmk126-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/santosh-kumar-kuppannagari/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -19,176 +17,225 @@
 
 ---
 
-## 🧠 Engineering Philosophy: Systems Over Prompts
+## 🧠 What I Build
 
-I approach AI engineering as a **systems and workflow design problem**.
+<table>
+<tr>
+<td align="center" width="25%">
 
-An LLM can generate an answer. The interesting engineering challenge is building the system around it — providing the right context, defining tools, controlling execution, validating outputs and creating feedback loops.
+### 🤖
+
+**AI Agents**
+
+Tool Calling
+Agent Workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**LLM Systems**
+
+Reasoning
+Structured Outputs
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Automation**
+
+Intelligent Workflows
+Task Execution
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Machine Learning**
+
+Data
+Predictive Models
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Engineering With AI
 
 ```text
-       ┌───────────────┐
-       │    Objective  │
-       └───────┬───────┘
-               ▼
-   ┌───────────────────────┐
-   │ Context & Constraints │
-   └───────────┬───────────┘
-               ▼
-   ┌───────────────────────────┐
-   │       AI / LLM Layer      │
-   │  Reason • Plan • Decide   │
-   └────────────┬──────────────┘
-                ▼
-   ┌───────────────────────────┐
-   │    Tool Selection &       │
-   │       Execution           │
-   │  APIs • Data • Software   │
-   └────────────┬──────────────┘
-                ▼
-   ┌───────────────────────────┐
-   │      Result / Action      │
-   └────────────┬──────────────┘
-                │
-                ▼
-   ┌───────────────────────────┐
-   │   Evaluation & Feedback   │
-   └────────────┬──────────────┘
-                │
-                └──────────► Iterate
+┌──────────┐
+│   Goal   │
+└────┬─────┘
+     ↓
+┌──────────┐
+│  Reason  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│   Tools  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ Execute  │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ Evaluate │
+└────┬─────┘
+     ↓
+┌──────────┐
+│ Iterate  │
+└──────────┘
 ```
 
-The goal is to move from:
+> **Build systems, not just prompts.**
 
-**Prompt → Response**
-
-toward:
-
-**Objective → Reasoning → Tool Use → Execution → Evaluation → Iteration**
+I’m interested in engineering AI systems where models can **reason, use tools, execute tasks and improve through structured workflows.**
 
 ---
 
-## 🤖 Agentic Systems
+## 🚀 Projects
 
-My work and experiments focus on building systems around:
+<table>
+<tr>
 
-* AI agents
-* Tool and function calling
-* Multi-step task execution
-* Structured outputs
-* Workflow orchestration
-* Context management
-* AI-assisted automation
-* Evaluation and validation
-* Human-in-the-loop workflows
-
-I'm particularly interested in the engineering layer that connects an LLM to **real tools, data and actions**.
-
----
-
-## 💻 AI-Assisted Software Engineering
-
-I use modern AI coding systems as part of the development workflow to accelerate:
-
-* Problem decomposition
-* Architecture exploration
-* Implementation
-* Debugging
-* Testing
-* Refactoring
-* Documentation
-* Iterative development
-
-The focus is not simply generating code.
-
-It is using AI as part of an **engineering workflow** while maintaining control over requirements, architecture, implementation and validation.
-
-This area sits around:
-
-**Agentic Engineering · AI-Assisted Software Engineering · Agentic Coding · Specification-Driven Development**
-
----
-
-## 🛠️ Technical Stack & Focus Areas
-
-| **Domain**                  | **Focus Areas**                                                               | **Technologies**                                            |
-| --------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| **Agentic AI & LLMs**       | AI Agents, Tool Calling, Structured Outputs, Workflow Design                  | LLMs · AI Agents · Prompt Engineering · Tool Calling        |
-| **Data & Machine Learning** | Data Preparation, Feature Engineering, Regression, Classification, Evaluation | Python · Pandas · NumPy · scikit-learn · SQL                |
-| **AI-Assisted Engineering** | Problem Decomposition, AI-Assisted Development, Debugging, Validation         | Python · Git · Modular Development · ML Pipelines           |
-| **Currently Exploring**     | RAG, Agent Orchestration, Retrieval, Deployment                               | LangChain · LangGraph · Vector Databases · FastAPI · Docker |
-
----
-
-## 🚀 What I'm Building
+<td width="50%" valign="top">
 
 ### 🧠 EdgeDash
 
-An AI-powered career intelligence system exploring how intelligent workflows can automate job discovery, requirement analysis and skill-gap identification.
+**Career Intelligence & Agentic Automation**
 
-**Focus:**
+Exploring an automated intelligence loop for:
 
-`Python` · `Pandas` · `LLMs` · `AI Agents` · `Automation`
+🔎 Job discovery
+📋 Requirement analysis
+🧩 Skill-gap identification
+🎯 Opportunity evaluation
 
----
+<br>
+
+`Python` `Pandas` `LLMs` `AI Agents`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 Job Searching Agent
 
-An agentic workflow designed to automate repetitive job-search and job-analysis activities.
+**Agentic Job Discovery & Analysis**
 
-The system explores how AI can:
+An AI-powered workflow exploring:
 
-* Discover relevant opportunities
-* Analyse job descriptions
-* Extract requirements
-* Compare skills
-* Identify gaps
-* Organise opportunities
-* Generate useful next actions
+🔎 Automated job discovery
+📄 Job-description analysis
+🧠 Skill extraction
+🧩 Gap identification
 
-**Focus:**
+<br>
 
-`Python` · `LLMs` · `AI Agents` · `Automation`
+`Python` `LLMs` `Agents` `Automation`
 
----
+</td>
 
-## 🔬 Areas I'm Exploring
-
-### Agentic AI
-
-`Tool Calling` · `Agent Workflows` · `Orchestration` · `State` · `Memory` · `Evaluation`
-
-### LLM Engineering
-
-`RAG` · `Embeddings` · `Context Engineering` · `Structured Generation`
-
-### AI Software Engineering
-
-`Agentic Coding` · `Specification-Driven Development` · `AI-Assisted Testing` · `AI-Assisted Debugging`
-
-### Currently Exploring
-
-`RAG` · `LangChain` · `LangGraph` · `Vector Databases` · `FastAPI` · `Docker`
+</tr>
+</table>
 
 ---
 
-## 🎯 The Direction
+## 🛠️ Tech Stack
 
-I'm interested in building AI systems that can move beyond generating responses and become capable of:
+### 💻 Languages & Data
 
-**Understanding → Reasoning → Using Tools → Executing → Evaluating → Iterating**
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github" />
+</p>
 
-The focus is to build **reliable AI-powered workflows that solve practical problems and can operate as part of real software systems.**
+`SQL` `Pandas` `NumPy`
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
+`LLMs` `AI Agents` `Tool Calling` `Prompt Engineering` `Structured Outputs`
+
+### 🔭 Currently Exploring
+
+`RAG` `LangChain` `LangGraph` `Vector Databases` `FastAPI` `Docker`
+
+---
+
+## 🔧 How I Approach Problems
+
+<table>
+<tr>
+<td align="center">🎯<br><b>Define</b></td>
+<td>→</td>
+<td align="center">🧩<br><b>Decompose</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>Design</b></td>
+<td>→</td>
+<td align="center">⚙️<br><b>Build</b></td>
+<td>→</td>
+<td align="center">🔍<br><b>Evaluate</b></td>
+<td>→</td>
+<td align="center">🔄<br><b>Improve</b></td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Santoshmk126&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshmk126&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+---
+
+## 🔭 Current Direction
+
+```text
+AI
+ │
+ ├── LLMs
+ ├── Agents
+ ├── Tool Calling
+ ├── Automation
+ └── Intelligent Workflows
+              │
+              ▼
+        Agentic Engineering
+```
+
+**AI × Automation × Engineering**
 
 ---
 
 <div align="center">
 
-### Build the Intelligence. Engineer the Workflow. Automate the Outcome.
+### Build the Intelligence.
+
+### Engineer the Workflow.
+
+### Automate the Outcome.
 
 <br>
 
-<a href="https://www.linkedin.com/in/santosh-kumar-kuppannagari/">
-Connect with me on LinkedIn →
-</a>
+<img src="https://komarev.com/ghpvc/?username=Santoshmk126&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
