@@ -150,36 +150,14 @@ I’m interested in engineering AI systems where models can **reason, interact w
 <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="SQL / MySQL" />
 </a>
 
-<div align="center">
-  <table border="0">
-    <tr align="center">
-      <td width="130">
-        <a href="https://en.wikipedia.org/wiki/Data_cleansing">
-          <img src="https://api.iconify.design/material-symbols:cleaning-services-rounded.svg?color=%2338bdf8" width="44" height="44" alt="Data Cleaning" /><br />
-          <sub><b>Data Cleaning</b></sub>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://en.wikipedia.org/wiki/Data_analysis">
-          <img src="https://api.iconify.design/carbon:analytics.svg?color=%23818cf8" width="44" height="44" alt="Data Analytics" /><br />
-          <sub><b>Data Analytics</b></sub>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://en.wikipedia.org/wiki/Data_visualization">
-          <img src="https://api.iconify.design/carbon:chart-line-data.svg?color=%2334d399" width="44" height="44" alt="Data Visualization" /><br />
-          <sub><b>Data Visualization</b></sub>
-        </a>
-      </td>
-      <td width="130">
-        <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis">
-          <img src="https://api.iconify.design/carbon:data-explore.svg?color=%23fbbf24" width="44" height="44" alt="EDA" /><br />
-          <sub><b>EDA</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Cleaning-0ea5e9?style=for-the-badge&logo=codewars&logoColor=white" alt="Data Cleaning" />
+  <img src="https://img.shields.io/badge/Data_Analytics-6366f1?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Data_Visualization-10b981?style=for-the-badge&logo=tableau&logoColor=white" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/EDA-f59e0b?style=for-the-badge&logo=jupyter&logoColor=white" alt="EDA" />
+</p>
+
+---
 
 ---
 
