@@ -154,16 +154,29 @@ I’m interested in engineering AI systems where models can **reason, interact w
 
 <p align="center">
 
-🔍 <b>EDA</b>
+🔍 <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis">
+  <img
+    src="https://www.svgrepo.com/show/10519434/exploratory-data-analysis.svg"
+    width="55"
+    height="55"
+    alt="Exploratory Data Analysis"
+  />
+</a>,
     
 
-🧹 <b>Data Cleaning</b>
-    
+<p align="center">
+  <img src="DATA_CLEANING_ICON.svg" width="55" height="55" alt="Data Cleaning"/>
+  <img src="DATA_ANALYTICS_ICON.svg" width="55" height="55" alt="Data Analytics"/>
+  <img src="DATA_VISUALIZATION_ICON.svg" width="55" height="55" alt="Data Visualization"/>
+  <img src="EDA_ICON.svg" width="55" height="55" alt="Exploratory Data Analysis"/>
+</p>
 
-📊 <b>Data Analysis</b>
-    
-
-📈 <b>Data Visualization</b>
+<p align="center">
+  <b>Data Cleaning</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Data Analytics</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Data Visualization</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>EDA</b>
+</p>
 
 </p>
 
