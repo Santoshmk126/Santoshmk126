@@ -152,35 +152,37 @@ I’m interested in engineering AI systems where models can **reason, interact w
 
 </p>
 
-<p align="center">
+<div align="center">
 
-🔍 <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis">
-  <img
-    src="https://www.svgrepo.com/show/10519434/exploratory-data-analysis.svg"
-    width="55"
-    height="55"
-    alt="Exploratory Data Analysis"
-  />
-</a>,
-    
+  <a href="https://en.wikipedia.org/wiki/Data_cleansing">
+    <img src="https://api.iconify.design/material-symbols:cleaning-services-rounded.svg?color=%2338bdf8" width="48" height="48" alt="Data Cleaning" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Data_analysis">
+    <img src="https://api.iconify.design/carbon:analytics.svg?color=%23818cf8" width="48" height="48" alt="Data Analytics" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Data_visualization">
+    <img src="https://api.iconify.design/carbon:chart-line-data.svg?color=%2334d399" width="48" height="48" alt="Data Visualization" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis">
+    <img src="https://api.iconify.design/carbon:data-explore.svg?color=%23fbbf24" width="48" height="48" alt="Exploratory Data Analysis" />
+  </a>
 
-<p align="center">
-  <img src="DATA_CLEANING_ICON.svg" width="55" height="55" alt="Data Cleaning"/>
-  <img src="DATA_ANALYTICS_ICON.svg" width="55" height="55" alt="Data Analytics"/>
-  <img src="DATA_VISUALIZATION_ICON.svg" width="55" height="55" alt="Data Visualization"/>
-  <img src="EDA_ICON.svg" width="55" height="55" alt="Exploratory Data Analysis"/>
-</p>
+  <br />
 
-<p align="center">
-  <b>Data Cleaning</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Data Analytics</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Data Visualization</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>EDA</b>
-</p>
+  <p>
+    <b>Data Cleaning</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Data Analytics</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Data Visualization</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>EDA</b>
+  </p>
 
-</p>
+</div>
 
 ---
+
 
 ## 🤖 AI & Machine Learning
 
