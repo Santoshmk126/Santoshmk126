@@ -214,33 +214,60 @@ I’m interested in engineering AI systems where models can **reason, interact w
 
 ## ⚙️ Development & APIs
 
-<p align="center">
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" />
-</a>
-
-</p>
-
-<p align="center">
-
-⚡ <b>FastAPI</b>
-  •  
-🌐 <b>REST APIs</b>
-  •  
-📦 <b>JSON</b>
-  •  
-🔗 <b>API Integration</b>
-
-</p>
+<div align="center">
+  <table border="0">
+    <tr align="center">
+      <td width="130">
+        <a href="https://git-scm.com/">
+          <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /><br />
+          <sub><b>Git</b></sub>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://github.com/">
+          <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" /><br />
+          <sub><b>GitHub</b></sub>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://code.visualstudio.com/">
+          <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" /><br />
+          <sub><b>VS Code</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table border="0">
+    <tr align="center">
+      <td width="130">
+        <a href="https://fastapi.tiangolo.com/">
+          <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" /><br />
+          <sub>⚡ <b>FastAPI</b></sub>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://en.wikipedia.org/wiki/REST">
+          <img src="https://api.iconify.design/lucide:globe-2.svg?color=%230284c7" width="46" height="46" alt="REST APIs" /><br />
+          <sub>🌐 <b>REST APIs</b></sub>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://www.json.org/">
+          <img src="https://api.iconify.design/carbon:json.svg?color=%23f59e0b" width="46" height="46" alt="JSON" /><br />
+          <sub>📦 <b>JSON</b></sub>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://postman.com/">
+          <img src="https://skillicons.dev/icons?i=postman" height="48" alt="API Integration" /><br />
+          <sub>🔗 <b>API Integration</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -248,32 +275,6 @@ I’m interested in engineering AI systems where models can **reason, interact w
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-<h3>🧠 EdgeDash</h3>
-
-<b>Career Intelligence & Agentic Automation</b>
-
-<br><br>
-
-An AI-powered workflow exploring automated:
-
-🔎 Job discovery
-📋 Requirement analysis
-🧩 Skill-gap identification
-🎯 Opportunity evaluation
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/Agents-FF6F00?style=flat-square" />
-
-</td>
-
-<td width="50%" valign="top">
 
 <h3>🤖 Job Searching Agent</h3>
 
