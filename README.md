@@ -305,33 +305,56 @@ An AI-powered workflow exploring:
 
 # 🔭 Currently Exploring
 
-<p align="center">
-
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker" />
-</a>
-
-<a href="https://fastapi.tiangolo.com/">
-<img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="FastAPI" />
-</a>
-
-</p>
-
-<p align="center">
-
-📚 <b>RAG</b>
-  •  
-🔗 <b>LangChain</b>
-  •  
-🕸️ <b>LangGraph</b>
-  •  
-🗄️ <b>Vector Databases</b>
-  •  
-⚙️ <b>MLOps</b>
-  •  
-🧠 <b>LLMOps</b>
-
-</p>
+<div align="center">
+  <table border="0">
+    <tr align="center">
+      <td width="130">
+        <a href="https://www.docker.com/">
+          <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /><br />
+          <sub><b>Docker</b></sub>
+        </a>
+      </td>
+      <td width="130">
+        <a href="https://fastapi.tiangolo.com/">
+          <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" /><br />
+          <sub><b>FastAPI</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table border="0">
+    <tr align="center">
+      <td width="120">
+        <img src="https://api.iconify.design/lucide:book-open-check.svg?color=%2338bdf8" width="46" height="46" alt="RAG" /><br />
+        <sub>📚 <b>RAG</b></sub>
+      </td>
+      <td width="120">
+        <a href="https://www.langchain.com/">
+          <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%231c3c3c" width="46" height="46" alt="LangChain" /><br />
+          <sub>🔗 <b>LangChain</b></sub>
+        </a>
+      </td>
+      <td width="120">
+        <img src="https://api.iconify.design/lucide:network.svg?color=%23a78bfa" width="46" height="46" alt="LangGraph" /><br />
+        <sub>🕸️ <b>LangGraph</b></sub>
+      </td>
+      <td width="120">
+        <img src="https://api.iconify.design/lucide:database.svg?color=%23f59e0b" width="46" height="46" alt="Vector Databases" /><br />
+        <sub>🗄️ <b>Vector DBs</b></sub>
+      </td>
+      <td width="120">
+        <img src="https://api.iconify.design/lucide:cog.svg?color=%2334d399" width="46" height="46" alt="MLOps" /><br />
+        <sub>⚙️ <b>MLOps</b></sub>
+      </td>
+      <td width="120">
+        <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23f43f5e" width="46" height="46" alt="LLMOps" /><br />
+        <sub>🧠 <b>LLMOps</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -364,26 +387,6 @@ An AI-powered workflow exploring:
 </div>
 
 ---
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santoshmk126&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santoshmk126&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-<div align="center">
-
-## Build the Intelligence.
-
-## Engineer the Workflow.
-
-## Automate the Outcome.
 
 <br>
 
