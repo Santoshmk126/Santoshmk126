@@ -183,35 +183,32 @@ I’m interested in engineering AI systems where models can **reason, interact w
 
 ---
 
----
-
----
-
 ## 🤖 AI & Machine Learning
 
-<p align="center">
+<div align="center">
+  <table border="0">
+    <tr align="center">
+      <td width="140">
+        <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23818cf8" width="44" height="44" alt="LLM Applications" /><br />
+        <sub><b>LLM Applications</b></sub>
+      </td>
+      <td width="140">
+        <img src="https://api.iconify.design/lucide:bot.svg?color=%23fb923c" width="44" height="44" alt="AI Agents" /><br />
+        <sub><b>AI Agents</b></sub>
+      </td>
+      <td width="140">
+        <img src="https://api.iconify.design/lucide:wrench.svg?color=%2338bdf8" width="44" height="44" alt="Tool Calling" /><br />
+        <sub><b>Tool Calling</b></sub>
+      </td>
+      <td width="140">
+        <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%23a78bfa" width="44" height="44" alt="Prompt Engineering" /><br />
+        <sub><b>Prompt Engineering</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />
-
-<img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge" alt="AI Agents" />
-
-<img src="https://img.shields.io/badge/Tool%20Calling-2088FF?style=for-the-badge" alt="Tool Calling" />
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge" alt="Prompt Engineering" />
-
-</p>
-
-<p align="center">
-
-🧠 <b>LLM Applications</b>
-  •  
-🤖 <b>AI Agents</b>
-  •  
-🔧 <b>Tool Calling</b>
-  •  
-📝 <b>Prompt Engineering</b>
-
-</p>
+---
 
 ---
 
